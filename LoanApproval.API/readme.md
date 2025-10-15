@@ -146,13 +146,14 @@ Add a screenshot of your Swagger UI here 👇
 
 ![Swagger Screenshot](./assets/api.png)
 ![Database Screenshot](./assets/DB.png)
-👨‍💻 Author
+## 👨‍💻 Author
 
-Swaraj Krishna Samudrala
-Full Stack .NET Developer | C# | ASP.NET Core | Entity Framework | MySQL | Azure
-🔗 LinkedIn
+**Swaraj Krishna Samudrala**  
+Full Stack .NET Developer | C# | ASP.NET Core | Entity Framework | MySQL | Azure  
 
-📧 your.email@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/swarajkrishna-samudrala/)  
+📧 [sskrishna0909@gmail.com](mailto:sskrishna0909@gmail.com)
+
 
 📜 License
 
