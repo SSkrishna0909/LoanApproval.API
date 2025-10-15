@@ -12,7 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 //builder.Services.AddSwaggerGen();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Loan Approval API", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Loan Approval API is loading", Version = "v1" });
 });
 
 // ✅ Add DbContext for MySQL
