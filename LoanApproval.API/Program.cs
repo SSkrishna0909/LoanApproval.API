@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllers();
 
-// ✅ Add Swagger
+//  Add Swagger
 builder.Services.AddEndpointsApiExplorer();
 //builder.Services.AddSwaggerGen();
 builder.Services.AddSwaggerGen(c =>
@@ -15,7 +15,7 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Loan Approval API is loading", Version = "v1" });
 });
 
-// ✅ Add DbContext for MySQL
+//  Add DbContext for MySQL
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(
         builder.Configuration.GetConnectionString("DefaultConnection"),
@@ -27,8 +27,8 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();             // ✅ Enable Swagger middleware
-    app.UseSwaggerUI();           // ✅ Enable Swagger UI
+    app.UseSwagger();             //  Enable Swagger middleware
+    app.UseSwaggerUI();           //  Enable Swagger UI
 }
 
 app.UseHttpsRedirection();
