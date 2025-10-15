@@ -144,8 +144,8 @@ Integrate CI/CD pipeline with GitHub Actions
 
 Add a screenshot of your Swagger UI here 👇
 
-![Swagger Screenshot](/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/assets/api.png)
-![Database Screenshot](/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/assets/DB.png)
+![Swagger Screenshot](./assets/api.png)
+![Database Screenshot](./assets/DB.png)
 👨‍💻 Author
 
 Swaraj Krishna Samudrala
