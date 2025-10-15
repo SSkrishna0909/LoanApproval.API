@@ -66,7 +66,7 @@ LoanApproval.API/
 
 ## 🧾 Example Request (POST)
 
-```json
+
 {
   "applicantName": "John Doe",
   "amount": 25000,
