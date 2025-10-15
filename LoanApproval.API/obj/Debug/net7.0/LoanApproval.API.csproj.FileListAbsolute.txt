@@ -1,0 +1,8 @@
+/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/obj/Debug/net7.0/LoanApproval.API.csproj.AssemblyReference.cache
+/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/obj/Debug/net7.0/LoanApproval.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/obj/Debug/net7.0/LoanApproval.API.AssemblyInfoInputs.cache
+/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/obj/Debug/net7.0/LoanApproval.API.AssemblyInfo.cs
+/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/obj/Debug/net7.0/LoanApproval.API.csproj.CoreCompileInputs.cache
+/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/obj/Debug/net7.0/LoanApproval.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/obj/Debug/net7.0/LoanApproval.API.RazorAssemblyInfo.cache
+/Users/swarajkrishnasamudrala/Projects/LoanApproval.API/LoanApproval.API/obj/Debug/net7.0/LoanApproval.API.RazorAssemblyInfo.cs
